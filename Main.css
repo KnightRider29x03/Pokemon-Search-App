@@ -1,8 +1,7 @@
-/* src/App.css */
 .Main {
   text-align: center;
   font-family: 'Arial', sans-serif;
-  background-color: #4B0082; /* Dark bluish-purple */
+  background-color: #4B0082; 
   min-height: 100vh;
   padding: 20px;
 }
@@ -15,7 +14,7 @@
 }
 
 h1 {
-  color: #FFFFFF; /* White for contrast */
+  color: #FFFFFF; 
   margin-left: 10px;
 }
 
