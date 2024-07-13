@@ -1,11 +1,10 @@
-/* src/PokemonList.css */
 .pokemon-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin: 0;
   padding: 20px;
-  background-color: #4B0082; /* Dark bluish-purple */
+  background-color: #4B0082; 
 }
 
 .pokemon-card {
