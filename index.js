@@ -4,11 +4,6 @@ import './index.css';
 //import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Main from './Main';
-//import Contact from './Contact';
-//import ToDoList from './ToDoList';
-//import FileSystem from "./FileSystem";
-//import Userform from "./UserProfile";
-//import VendorForm from './vendor';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
